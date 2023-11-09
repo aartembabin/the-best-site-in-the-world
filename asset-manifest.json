@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/the-best-site-in-the-world/static/css/main.08a5eb12.css",
+    "main.js": "/the-best-site-in-the-world/static/js/main.366cdd06.js",
+    "static/css/380.3a67587e.chunk.css": "/the-best-site-in-the-world/static/css/380.3a67587e.chunk.css",
+    "static/js/380.ce9d8adb.chunk.js": "/the-best-site-in-the-world/static/js/380.ce9d8adb.chunk.js",
+    "static/js/506.0d0e9aea.chunk.js": "/the-best-site-in-the-world/static/js/506.0d0e9aea.chunk.js",
+    "static/media/video.mp4": "/the-best-site-in-the-world/static/media/video.1249083c5665c4f7a059.mp4",
+    "static/media/figma.png": "/the-best-site-in-the-world/static/media/figma.749e00de5a67485bb79d.png",
+    "static/media/image.png": "/the-best-site-in-the-world/static/media/image.c9de2a5eaa0f5424067a.png",
+    "static/media/center.obj": "/the-best-site-in-the-world/static/media/center.355b2771147a54035ece.obj",
+    "static/media/left-bottom-texture.png": "/the-best-site-in-the-world/static/media/left-bottom-texture.90175028a931b27601da.png",
+    "static/media/center-texture.png": "/the-best-site-in-the-world/static/media/center-texture.3f41d6253c71468fb7b2.png",
+    "static/media/right-bottom-texture.png": "/the-best-site-in-the-world/static/media/right-bottom-texture.1c31604423afef2e6c77.png",
+    "static/media/image-for-mobile.png": "/the-best-site-in-the-world/static/media/image-for-mobile.6e6d0443269e53fa20c3.png",
+    "static/media/left-top-texture.png": "/the-best-site-in-the-world/static/media/left-top-texture.bcff41af8a766b17af5b.png",
+    "static/media/right-top-texture.png": "/the-best-site-in-the-world/static/media/right-top-texture.26fef52f3164ae9a38c6.png",
+    "static/media/left-top.obj": "/the-best-site-in-the-world/static/media/left-top.4d350c899db1956274f0.obj",
+    "static/media/right-bottom.obj": "/the-best-site-in-the-world/static/media/right-bottom.f06f8996d66c498f54af.obj",
+    "static/media/react.png": "/the-best-site-in-the-world/static/media/react.6f28bd3bcb73ec380e13.png",
+    "static/media/preloader.svg": "/the-best-site-in-the-world/static/media/preloader.ab4e06cd632f7308355f9b26afd82ed7.svg",
+    "static/media/right-top.obj": "/the-best-site-in-the-world/static/media/right-top.09463ebb4660a551d69e.obj",
+    "static/media/left-bottom.obj": "/the-best-site-in-the-world/static/media/left-bottom.d7297717c1ee353f2f3b.obj",
+    "static/media/telegram-icon.svg": "/the-best-site-in-the-world/static/media/telegram-icon.0dcf1f6db2ef3c1904f2b8bf3692bcc6.svg",
+    "static/media/link-icon.svg": "/the-best-site-in-the-world/static/media/link-icon.49977ecc52ca543e7ab13ecc20f147f2.svg",
+    "index.html": "/the-best-site-in-the-world/index.html",
+    "static/media/black-close-icon.svg": "/the-best-site-in-the-world/static/media/black-close-icon.729d1bb850be9c227afc.svg",
+    "static/media/arrow-right-icon.svg": "/the-best-site-in-the-world/static/media/arrow-right-icon.e5d240b87b52735c91b7d63e824c7bdc.svg",
+    "static/media/arrow-left-icon.svg": "/the-best-site-in-the-world/static/media/arrow-left-icon.1c939b67d1f8a879690fdabc17201386.svg",
+    "main.08a5eb12.css.map": "/the-best-site-in-the-world/static/css/main.08a5eb12.css.map",
+    "main.366cdd06.js.map": "/the-best-site-in-the-world/static/js/main.366cdd06.js.map",
+    "380.3a67587e.chunk.css.map": "/the-best-site-in-the-world/static/css/380.3a67587e.chunk.css.map",
+    "380.ce9d8adb.chunk.js.map": "/the-best-site-in-the-world/static/js/380.ce9d8adb.chunk.js.map",
+    "506.0d0e9aea.chunk.js.map": "/the-best-site-in-the-world/static/js/506.0d0e9aea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a5eb12.css",
+    "static/js/main.366cdd06.js"
+  ]
+}
