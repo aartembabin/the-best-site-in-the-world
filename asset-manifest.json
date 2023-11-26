@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/the-best-site-in-the-world/static/css/main.08a5eb12.css",
-    "main.js": "/the-best-site-in-the-world/static/js/main.366cdd06.js",
-    "static/css/380.3a67587e.chunk.css": "/the-best-site-in-the-world/static/css/380.3a67587e.chunk.css",
+    "main.css": "/the-best-site-in-the-world/static/css/main.563cf9bc.css",
+    "main.js": "/the-best-site-in-the-world/static/js/main.8fb5fe9d.js",
+    "static/css/380.1548ba40.chunk.css": "/the-best-site-in-the-world/static/css/380.1548ba40.chunk.css",
     "static/js/380.ce9d8adb.chunk.js": "/the-best-site-in-the-world/static/js/380.ce9d8adb.chunk.js",
     "static/js/506.0d0e9aea.chunk.js": "/the-best-site-in-the-world/static/js/506.0d0e9aea.chunk.js",
     "static/media/video.mp4": "/the-best-site-in-the-world/static/media/video.1249083c5665c4f7a059.mp4",
@@ -27,14 +27,14 @@
     "static/media/black-close-icon.svg": "/the-best-site-in-the-world/static/media/black-close-icon.729d1bb850be9c227afc.svg",
     "static/media/arrow-right-icon.svg": "/the-best-site-in-the-world/static/media/arrow-right-icon.e5d240b87b52735c91b7d63e824c7bdc.svg",
     "static/media/arrow-left-icon.svg": "/the-best-site-in-the-world/static/media/arrow-left-icon.1c939b67d1f8a879690fdabc17201386.svg",
-    "main.08a5eb12.css.map": "/the-best-site-in-the-world/static/css/main.08a5eb12.css.map",
-    "main.366cdd06.js.map": "/the-best-site-in-the-world/static/js/main.366cdd06.js.map",
-    "380.3a67587e.chunk.css.map": "/the-best-site-in-the-world/static/css/380.3a67587e.chunk.css.map",
+    "main.563cf9bc.css.map": "/the-best-site-in-the-world/static/css/main.563cf9bc.css.map",
+    "main.8fb5fe9d.js.map": "/the-best-site-in-the-world/static/js/main.8fb5fe9d.js.map",
+    "380.1548ba40.chunk.css.map": "/the-best-site-in-the-world/static/css/380.1548ba40.chunk.css.map",
     "380.ce9d8adb.chunk.js.map": "/the-best-site-in-the-world/static/js/380.ce9d8adb.chunk.js.map",
     "506.0d0e9aea.chunk.js.map": "/the-best-site-in-the-world/static/js/506.0d0e9aea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08a5eb12.css",
-    "static/js/main.366cdd06.js"
+    "static/css/main.563cf9bc.css",
+    "static/js/main.8fb5fe9d.js"
   ]
 }
